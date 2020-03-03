@@ -1,0 +1,12 @@
+name: myshinyapp_ferv
+title:
+username:
+account: fervilleda
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1897346
+bundleId: 2848318
+url: https://fervilleda.shinyapps.io/myshinyapp_ferv/
+when: 1583269978.23464
+asMultiple: FALSE
+asStatic: FALSE
